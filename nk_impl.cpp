@@ -1,0 +1,5 @@
+#define NK_INCLUDE_DEFAULT_ALLOCATOR
+#define NK_IMPLEMENTATION
+#define NK_BUTTON_TRIGGER_ON_RELEASE 
+#include "nuklear.h"
+
